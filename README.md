@@ -15,5 +15,5 @@ A professional, ethical WiFi security assessment tool for authorized penetration
 sudo ./install.sh
 
 ### Termux
-```bash
-sudo ./Script-Kid
+```
+./Script-Kid
