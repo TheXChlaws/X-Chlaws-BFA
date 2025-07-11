@@ -13,7 +13,3 @@ A professional, ethical WiFi security assessment tool for authorized penetration
 ### Kali Linux
 ```bash
 sudo ./install.sh
-
-### Termux
-```
-./Script-Kid
